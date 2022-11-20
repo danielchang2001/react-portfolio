@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/Home';
@@ -12,7 +11,7 @@ import Contact from './components/contact/Contact';
 function App() {
   return (
     <div>
-      <Sidebar />
+      <Sidebar/>
       <main className="main">
         <Home/>
         <About/>
