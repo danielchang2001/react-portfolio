@@ -2,6 +2,7 @@ import React from 'react';
 import "./home.css";
 import Me from "../../assets/avatar-1.svg"
 import HeaderSocials from './HeaderSocials';
+import ScrollDown from './ScrollDown';
 
 const Home = () => {
   return (
@@ -11,6 +12,8 @@ const Home = () => {
         <h1 className="home__name">Daniel Chang</h1>
         <span className="home__education">I'm an aspiring Frontend Developer</span>
         <HeaderSocials/>
+        <a href="#contact" className="btn">Contact Me</a>
+        <ScrollDown/>
       </div>
     </section>
   )
