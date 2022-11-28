@@ -48,7 +48,7 @@ const About = () => {
             </div>
 
             <div className="resume__data">
-              <a href="" className="btn">My Resume
+              <a href="#resume" className="btn">My Resume
               <i className="dl_icon icon-cloud-download"></i>
               </a>
             </div>
