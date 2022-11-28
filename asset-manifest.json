@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/danielchang2001.github.io/static/css/main.468dcf3d.css",
-    "main.js": "/danielchang2001.github.io/static/js/main.32da0f0c.js",
-    "static/media/previous.png": "/danielchang2001.github.io/static/media/previous.11a5812203342a7f7711.png",
-    "static/media/RyeArtz.png": "/danielchang2001.github.io/static/media/RyeArtz.cce007ef3cbef9fe2f16.png",
-    "static/media/ReactPortfolio.png": "/danielchang2001.github.io/static/media/ReactPortfolio.cf705ad591024afbfe03.png",
-    "static/media/Canvas.png": "/danielchang2001.github.io/static/media/Canvas.37712869e0546fc15797.png",
-    "static/media/SpotifyLyrics.png": "/danielchang2001.github.io/static/media/SpotifyLyrics.c6d585b1a84f1a023edc.png",
-    "static/media/SproutLabs.png": "/danielchang2001.github.io/static/media/SproutLabs.529ebc6ae12737f2f0df.png",
-    "static/media/MoodTrack.png": "/danielchang2001.github.io/static/media/MoodTrack.9c47e1ef1c0b53016ab4.png",
-    "static/media/daniel.png": "/danielchang2001.github.io/static/media/daniel.8886af81732c0f24f0a2.png",
-    "static/media/home.png": "/danielchang2001.github.io/static/media/home.78103af64ac56e2bd353.png",
-    "static/media/dots-bg.svg": "/danielchang2001.github.io/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
-    "index.html": "/danielchang2001.github.io/index.html",
-    "main.468dcf3d.css.map": "/danielchang2001.github.io/static/css/main.468dcf3d.css.map",
-    "main.32da0f0c.js.map": "/danielchang2001.github.io/static/js/main.32da0f0c.js.map"
+    "main.css": "/react-portfolio/static/css/main.7bf04b7e.css",
+    "main.js": "/react-portfolio/static/js/main.9959319f.js",
+    "static/media/previous.png": "/react-portfolio/static/media/previous.11a5812203342a7f7711.png",
+    "static/media/RyeArtz.png": "/react-portfolio/static/media/RyeArtz.cce007ef3cbef9fe2f16.png",
+    "static/media/ReactPortfolio.png": "/react-portfolio/static/media/ReactPortfolio.cf705ad591024afbfe03.png",
+    "static/media/Canvas.png": "/react-portfolio/static/media/Canvas.37712869e0546fc15797.png",
+    "static/media/SpotifyLyrics.png": "/react-portfolio/static/media/SpotifyLyrics.c6d585b1a84f1a023edc.png",
+    "static/media/SproutLabs.png": "/react-portfolio/static/media/SproutLabs.529ebc6ae12737f2f0df.png",
+    "static/media/MoodTrack.png": "/react-portfolio/static/media/MoodTrack.9c47e1ef1c0b53016ab4.png",
+    "static/media/daniel.png": "/react-portfolio/static/media/daniel.8886af81732c0f24f0a2.png",
+    "static/media/home.png": "/react-portfolio/static/media/home.78103af64ac56e2bd353.png",
+    "static/media/dots-bg.svg": "/react-portfolio/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.7bf04b7e.css.map": "/react-portfolio/static/css/main.7bf04b7e.css.map",
+    "main.9959319f.js.map": "/react-portfolio/static/js/main.9959319f.js.map"
   },
   "entrypoints": [
-    "static/css/main.468dcf3d.css",
-    "static/js/main.32da0f0c.js"
+    "static/css/main.7bf04b7e.css",
+    "static/js/main.9959319f.js"
   ]
 }
