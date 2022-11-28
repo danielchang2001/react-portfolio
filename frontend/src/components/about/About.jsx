@@ -13,7 +13,7 @@ const About = () => {
 
         <div className="about__data grid">
           <div className="about__info">
-            <p className="about__description">I'm pursuing a B.S. degree in Computer Engineering with a concentration in Systems Programming at UCSC. I've always been passionate about using software as tools to express my creativity, such as creating animations in Maxon Cinema 4D or video game maps in Hammer Editor. My goal for learning Software Engineering and Frontend Development in particular is to further expand my creative skill set; the opportunity for growth in this field is truly exciting, and I want to be able to use what I've learned to contribute something meaningful to the world.</p>
+            <p className="about__description">I'm pursuing a B.S. degree in Computer Engineering with a concentration in Systems Programming at UCSC. I've always been passionate about using software as tools to express my creativity, such as creating animations in Maxon Cinema 4D or video game maps in Hammer Editor. My goal for learning Software Engineering and Frontend Development in particular is to further expand my creative skill set; the opportunity for growth in this field is truly exciting, and I want to be able to use what I learn to contribute something meaningful to the world.</p>
            
           </div>
           <div className="about__skills grid">
@@ -49,13 +49,13 @@ const About = () => {
 
             <div className="resume__data">
               <a href="" className="btn">My Resume
-              <i className="dl_icon icon-arrow-down-circle"></i>
+              <i className="dl_icon icon-cloud-download"></i>
               </a>
             </div>
           </div>
         </div>
       </div>
-      {/* <AboutBox/> */}
+      <AboutBox/>
     </section>
   )
 }

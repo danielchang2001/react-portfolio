@@ -15,7 +15,7 @@ function App() {
       <main className="main">
         <Home/>
         <About/>
-        <Services/>
+        {/* <Services/> */}
         <Resume/>
         <Portfolio/>
         <Blog/>

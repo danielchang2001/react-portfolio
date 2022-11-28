@@ -75,32 +75,36 @@
 
 .ui__design {
     width: 70%;
-    background: rgb(255, 76, 96);
+    /* background: rgb(255, 76, 96); */
+    background: rgb(255, 209, 92);
 }
 
 .photography {
     width: 80%;
-    background: rgb(108, 108, 299);
+    /* background: rgb(108, 108, 299); */
+    background: rgb(255, 209, 92);
 }
 
 .about__boxes {
     grid-template-columns: repeat(4,1fr);
     column-gap: 1.875rem;
-    margin-top: 4.35rem;
+    margin-top: 1rem;
 }
 
 .about__box {
     display: flex;
     column-gap: 1.5rem;
+    margin-top: 4rem;
 }
 
 .about__icon {
     font-size: var(--h1-font-size);
-    color: #dedeea;
+    color:rgb(108, 108, 299);
 }
 
 .about__title {
     font-size: 1.875rem;
+    margin-bottom: 1rem;
 }
 
 .dl_icon {
