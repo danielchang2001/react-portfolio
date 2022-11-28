@@ -48,10 +48,11 @@
 
 .home__scroll-name {
     font-size: var(--small-font-size);
+    color: #51d1ff;
 }
 
 .mouse {
-    border: 2px solid #454360;
+    border: 2px solid #a59a8a;
     display: block;
     height: 1.6rem;
     width: 1.25rem;

@@ -6,10 +6,10 @@
   /* Colors */
   /* Color mode HSL (hue, saturation, lightness) */
   --first-color: hsl(353, 100%, 65%);
-  --title-color: hsl(244, 24%, 26%);
-  --text-color: hsl(244, 16%, 43%);
-  --body-color: hsl(258, 60%, 98%);
-  --container-color: #fff;
+  --title-color: #f1edff;
+  --text-color: #e8dece;
+  --body-color: rgba(64,69,71,255);
+  --container-color: rgba(45,48,49,255);
 
   /* Font and Typography */
   /* .5rem = 8px, 1rem = 16px */
@@ -120,7 +120,10 @@ img {
 
 .section__title::before {
   content: '';
-  background: url(./assets/dots-bg.svg);
+  /* background: url(./assets/dots-bg.svg); */
+  background-color: white;
+  -webkit-mask: url(./assets/dots-bg.svg) no-repeat center;
+  mask: url(./assets/dots-bg.svg) no-repeat center;
   height: 2.25rem;
   width: 2.25rem;
   position: absolute;
@@ -150,5 +153,9 @@ img {
 }
 
 .btn:hover {
+  background-color:hsl(353, 100%, 75%);
+}
+
+.btn:active {
   animation: button-push 0.2s linear 1;
 }
