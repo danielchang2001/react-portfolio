@@ -3,6 +3,9 @@
     column-gap: 1.875rem;
 }
 
+.about__img {
+    width: 55%
+}
 .about__data {
     padding: 1.875rem;
     background-color: var(--container-color);
