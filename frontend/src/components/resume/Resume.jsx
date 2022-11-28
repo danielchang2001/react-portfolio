@@ -9,12 +9,12 @@ const Resume = () => {
       <h2 className="section__title">Experience</h2>
 
       <div className="resume__container grid">
-        <div className="timeline grid">
-          {Data.map((val, index) => {
-            if (val.category === "experience") {
+        <div className="timeline grid edu">
+          {Data.map((val, id) => {
+            if (val.category === "education") {
               return (
-                <Card 
-                  key={index} 
+                <Card
+                  key={id} 
                   icon={val.icon} 
                   title={val.title} 
                   subtitle={val.subtitle}
@@ -24,12 +24,12 @@ const Resume = () => {
             }
           })}
         </div>
-        <div className="timeline grid edu">
-          {Data.map((val, id) => {
-            if (val.category === "education") {
+        <div className="timeline grid">
+          {Data.map((val, index) => {
+            if (val.category === "experience") {
               return (
-                <Card
-                  key={id} 
+                <Card 
+                  key={index} 
                   icon={val.icon} 
                   title={val.title} 
                   subtitle={val.subtitle}

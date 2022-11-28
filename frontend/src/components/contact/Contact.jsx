@@ -9,7 +9,7 @@ const Contact = () => {
       <div className="contact__container grid">
         <div className="contact__info">
           <h3 className="contact__title">Let's Talk</h3>
-          <p className="contact__details">Send me an email</p>
+          <p className="contact__details">Email: dchang30@ucsc.edu</p>
         </div>
         <div className="form contact__form">
           <div className="contact__form-group">
