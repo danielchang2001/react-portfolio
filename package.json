@@ -1,7 +1,7 @@
 {
   
-  "homepage": "https://github.io/danielchang2001/react-portfolio",
-  "name": "frontend",
+  "homepage": "https://github.io/danielchang2001",
+  "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
