@@ -23,7 +23,7 @@ const Portfolio = () => {
 
       <div className="work__container grid">
         {items.map((elem)=>{
-          const{id,image,title,category,link} = elem;
+          const{id,image,title,category,link,desc} = elem;
           return (
             <div className="work__card" key={id}>
               <div className="work__thumbnail">
@@ -32,6 +32,7 @@ const Portfolio = () => {
               </div>
               <div className="span work__category">{category}</div>
               <h3 className="work__title">{title}</h3>
+              <p className="work__desc">{desc}</p>
               <a href={link} target="_blank" className="work__button">
                 <i className="icon-link work__button-icon"></i>
               </a>

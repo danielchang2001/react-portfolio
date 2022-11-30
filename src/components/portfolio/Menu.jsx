@@ -12,21 +12,24 @@ const Menu = [
     image: Work1,
     title: "Grade Analytics Tool",
     category: "Software",
-    link: "https://github.com/danielchang2001/Canvas-Analytics-Tool"
+    link: "https://github.com/danielchang2001/Canvas-Analytics-Tool",
+    desc: "Scrapes data from Canvas, UCSC’s LMS, and recalculates a student’s grade based on new scores."
   },
   {
     id: 2,
     image: Work2,
     title: "Spotify Mood Track",
     category: "Software",
-    link: "https://github.com/danielchang2001/Spotify-Mood-Track"
+    link: "https://github.com/danielchang2001/Spotify-Mood-Track",
+    desc:"A CLI application that displays a graph of a Spotify user’s change in music moods over a span of 5 years."
   },
   {
     id: 3,
     image: Work3,
     title: "Spotify Lyrics",
     category: "Software",
-    link: "https://github.com/danielchang2001/Spotify-Lyrics"
+    link: "https://github.com/danielchang2001/Spotify-Lyrics",
+    desc: "React web application that plays music on Spotify and displays song lyrics."
   },
   ,
   {
@@ -34,7 +37,8 @@ const Menu = [
     image: Work4,
     title: "React Portfolio",
     category: "Frontend",
-    link: "https://github.com/danielchang2001/react-portfolio"
+    link: "https://github.com/danielchang2001/react-portfolio",
+    desc: "An interactive and mobile responsive portfolio website using React, JavaScript, HTML5, and CSS3."
   },
   ,
   {
@@ -42,22 +46,25 @@ const Menu = [
     image: Work5,
     title: "Sprout Labs",
     category: "Frontend",
-    link: "https://docs.google.com/presentation/d/1Xy1bsDFeePL6rGzDegy35Mj1V_s033pEtfRgY3veRpo/edit#slide=id.g136baaac469_1_110"
+    link: "https://docs.google.com/presentation/d/1Xy1bsDFeePL6rGzDegy35Mj1V_s033pEtfRgY3veRpo/edit#slide=id.g136baaac469_1_110",
+    desc: "Developed the frontend form component for sproutlabs.io that configures a customer’s soil sensor device."
   },
   ,
   {
     id: 6,
     image: Work6,
-    title: "HTML Portfolio",
+    title: "Old Portfolio",
     category: "Frontend",
-    link: "https://github.com/danielchang2001/Personal-Website-Current"
+    link: "https://github.com/danielchang2001/Personal-Website-Current",
+    desc: "My old portfolio from 2021-Nov 2022. Used HTML, CSS, and some JS."
   },
   {
     id: 7,
     image: Work7,
     title: "RyeArtz",
     category: "Animation",
-    link: "https://www.youtube.com/@RyeArtz/"
+    link: "https://www.youtube.com/@RyeArtz/",
+    desc: "Animation YouTube channel I ran from 2014-2018."
   }
 ];
 

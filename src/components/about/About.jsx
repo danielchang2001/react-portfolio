@@ -48,8 +48,8 @@ const About = () => {
             </div>
 
             <div className="resume__data">
-              <a href="#resume" className="btn">My Resume
-              <i className="dl_icon icon-cloud-download"></i>
+              <a href="https://docs.google.com/document/d/1rQ7TQCrr1aitc79lCcZa2J6NtmLnCOu-/edit?usp=sharing&ouid=114009036661208541437&rtpof=true&sd=true" target="_blank" className="btn">My Resume
+              <i className="icon-notebook"></i>
               </a>
             </div>
           </div>
