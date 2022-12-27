@@ -12,6 +12,7 @@ const AboutBox = () => {
                 <p className="about__subtitle">● JavaScript</p>
                 <p className="about__subtitle">● C</p>
                 <p className="about__subtitle">● PHP</p>
+                <p className="about__subtitle">● SQL</p>
                 <p className="about__subtitle">● Verilog</p>
             </div>
         </div>
@@ -25,18 +26,19 @@ const AboutBox = () => {
                 <p className="about__subtitle">● Vue.js</p>
                 <p className="about__subtitle">● HTML5</p>
                 <p className="about__subtitle">● CSS3</p>
-                <p className="about__subtitle">● REST API</p>
                 <p className="about__subtitle">● WordPress</p>
+                <p className="about__subtitle">● Photoshop</p>
             </div>
         </div>
 
         <div className="about__box">
             <i className="about__icon icon-layers"></i>
             <div>
-                <h3 className="about__title">Databases</h3>
+                <h3 className="about__title">Backend</h3>
+                <p className="about__subtitle">● Node.js</p>
                 <p className="about__subtitle">● MySQL</p>
                 <p className="about__subtitle">● Firebase</p>
-                <p className="about__subtitle">● MariaDB</p>
+                <p className="about__subtitle">● REST API</p>
             </div>
         </div>
 
@@ -46,9 +48,7 @@ const AboutBox = () => {
                 <h3 className="about__title">Other</h3>
                 <p className="about__subtitle">● Git</p>
                 <p className="about__subtitle">● Agile</p>
-                <p className="about__subtitle">● Photoshop</p>
-                <p className="about__subtitle">● Illustrator</p>
-                <p className="about__subtitle">● After Effects</p>
+                <p className="about__subtitle">● Scrum</p>
             </div>
         </div>
     </div>

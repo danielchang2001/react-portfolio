@@ -33,8 +33,8 @@ const Contact = () => {
 
       <div className="contact__container grid">
         <div className="contact__info">
-          <h3 className="contact__title">Let's Talk</h3>
-          <p className="contact__details">Email: dchang30@ucsc.edu</p>
+          <h3 className="contact__title">Want to send a direct email?</h3>
+          <p className="contact__details">dchang30@ucsc.edu</p>
         </div>
         <form ref={form} onSubmit={sendEmail} className="form contact__form">
           <div className="contact__form-group">
