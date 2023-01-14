@@ -15,7 +15,7 @@ const Data = [
       year: "Aug 2021 - Nov 2022",
       title: "Web Developer",
       subtitle: "University of California, Santa Cruz",
-      desc: "➊ Developed dynamic websites for UCSC Humanities using PHP, HTML5, CSS3, and JavaScript.\n➋ Maintained site backend by updating VMs, plugins, backups, databases, and SSL certificates.\n➌ Used WordPress extended features like Elementor and Shortcodes for responsive design.\n➍ Collaborated with site owners to structure site content and implemented page wireframes.",
+      desc: "➊ Developed websites for UCSC Humanities using PHP, JavaScript, HTML5, and CSS3.\n➋ Updated server files like plugins, backups, and SSL certificates to maintain site backend.\n➌ Used WordPress with add-ons like Elementor and Shortcodes for more customization.\n➍ Collaborated with site owners to structure site content and implemented page wireframes.",
     },
     {
       id: 5,
@@ -24,7 +24,7 @@ const Data = [
       year: "Jun 2022 - Jul 2022",
       title: "Frontend Developer",
       subtitle: "Sprout Labs",
-      desc: "➊ Created the frontend form for sproutlabs.io that configures a customer’s new soil sensor device.\n➋ Developed UI in Vue.js, made API calls to Golang backend, and queried data using Firestore.\n➌ Worked with a team of four, followed Scrum, and presented weekly sprint demos to stakeholders.",
+      desc: "➊ Created a form for sproutlabs.io website that configures a customer’s new soil sensor device.\n➋ Developed UI in Vue.js, fetched data from API endpoints, and interacted with Cloud Firestore.\n➌ Worked with a team of four, followed Scrum methodology, and presented weekly sprint demos.",
     },
     {
         id: 6,
