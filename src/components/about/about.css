@@ -11,7 +11,6 @@
     background-color: var(--container-color);
     box-shadow: var(--shadow);
     border-radius: var(--border-radius);
-    grid-template-columns: repeat(2,1fr);
     column-gap: 1.875rem;
     align-items: flex-start;
     position: relative;
@@ -111,7 +110,7 @@
 }
 
 .icon-notebook {
-    margin-left: 10px;
+    margin-right: 10px;
     font-weight: var(--font-bold);
 }
 
