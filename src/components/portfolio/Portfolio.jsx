@@ -16,9 +16,9 @@ const Portfolio = () => {
 
       <div className="work__filters">
         <span className="work__item" onClick={()=> setItems(Menu)}>Everything</span>
-        <span className="work__item" onClick={()=> filterItem("Software")}>Software</span>
-        <span className="work__item" onClick={()=> filterItem("Frontend")}>Frontend</span>
-        <span className="work__item" onClick={()=> filterItem("Animation")}>Animation</span>
+        <span className="work__item" onClick={()=> filterItem("Web App")}>Web Apps</span>
+        <span className="work__item" onClick={()=> filterItem("Non-Web App")}>Non-Web Apps</span>
+        <span className="work__item" onClick={()=> filterItem("Other")}>Other</span>
       </div>
 
       <div className="work__container grid">
