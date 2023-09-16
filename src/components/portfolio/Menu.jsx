@@ -65,15 +65,15 @@ const Menu = [
     category: "Non-Web App",
     link: "https://github.com/danielchang2001/Spotify-Mood-Track",
     desc:"A CLI application that displays a graph of a Spotify user’s change in music moods over a span of 5 years."
-  },
-  {
-    id: 8,
-    image: Work7,
-    title: "RyeArtz",
-    category: "Other",
-    link: "https://www.youtube.com/@RyeArtz/",
-    desc: "Animation YouTube channel I ran from 2014-2018."
   }
+  // {
+  //   id: 8,
+  //   image: Work7,
+  //   title: "RyeArtz",
+  //   category: "Other",
+  //   link: "https://www.youtube.com/@RyeArtz/",
+  //   desc: "Animation YouTube channel I ran from 2014-2018."
+  // }
 ];
 
 

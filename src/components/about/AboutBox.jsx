@@ -9,11 +9,9 @@ const AboutBox = () => {
             <div>
                 <h3 className="about__title">Languages</h3>
                 <p className="about__subtitle">● Python</p>
-                <p className="about__subtitle">● JavaScript ES6</p>
-                <p className="about__subtitle">● C / C++</p>
-                <p className="about__subtitle">● PHP</p>
-                <p className="about__subtitle">● SQL</p>
-                <p className="about__subtitle">● Verilog</p>
+                <p className="about__subtitle">● Java</p>
+                <p className="about__subtitle">● C</p>
+                <p className="about__subtitle">● JavaScript</p>
             </div>
         </div>
 
@@ -24,10 +22,8 @@ const AboutBox = () => {
                 <h3 className="about__title">Frontend</h3>
                 <p className="about__subtitle">● Vue.js</p>
                 <p className="about__subtitle">● React</p>
-                <p className="about__subtitle">● HTML5</p>
-                <p className="about__subtitle">● CSS3</p>
-                <p className="about__subtitle">● WordPress</p>
-                <p className="about__subtitle">● Photoshop</p>
+                <p className="about__subtitle">● Angular</p>
+                <p className="about__subtitle">● HTML, CSS</p>
             </div>
         </div>
 
@@ -35,11 +31,9 @@ const AboutBox = () => {
             <i className="about__icon icon-layers"></i>
             <div>
                 <h3 className="about__title">Backend</h3>
+                <p className="about__subtitle">● Spring</p>
                 <p className="about__subtitle">● Laravel</p>
-                <p className="about__subtitle">● Node.js</p>
                 <p className="about__subtitle">● MySQL</p>
-                <p className="about__subtitle">● Firebase</p>
-                <p className="about__subtitle">● REST API</p>
             </div>
         </div>
 
@@ -48,9 +42,7 @@ const AboutBox = () => {
             <div>
                 <h3 className="about__title">Other</h3>
                 <p className="about__subtitle">● Git</p>
-                <p className="about__subtitle">● Docker</p>
                 <p className="about__subtitle">● Agile</p>
-                <p className="about__subtitle">● Scrum</p>
             </div>
         </div>
     </div>
