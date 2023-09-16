@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.97ca46b7.css",
-    "main.js": "/static/js/main.dd499037.js",
-    "static/media/profile.png": "/static/media/profile.1bd72db58d8e65b9601b.png",
+    "main.js": "/static/js/main.01c928db.js",
     "static/media/wave.png": "/static/media/wave.a75e092b12222c443982.png",
     "static/media/previous.png": "/static/media/previous.11a5812203342a7f7711.png",
     "static/media/RyeArtz.png": "/static/media/RyeArtz.cce007ef3cbef9fe2f16.png",
@@ -12,13 +11,14 @@
     "static/media/SproutLabs.png": "/static/media/SproutLabs.529ebc6ae12737f2f0df.png",
     "static/media/MoodTrack.png": "/static/media/MoodTrack.9c47e1ef1c0b53016ab4.png",
     "static/media/BSOE.png": "/static/media/BSOE.eebd9b050a0c6fc9ebda.png",
+    "static/media/1645646033722.jpg": "/static/media/1645646033722.7d0237c7635570368a59.jpg",
     "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
     "index.html": "/index.html",
     "main.97ca46b7.css.map": "/static/css/main.97ca46b7.css.map",
-    "main.dd499037.js.map": "/static/js/main.dd499037.js.map"
+    "main.01c928db.js.map": "/static/js/main.01c928db.js.map"
   },
   "entrypoints": [
     "static/css/main.97ca46b7.css",
-    "static/js/main.dd499037.js"
+    "static/js/main.01c928db.js"
   ]
 }
